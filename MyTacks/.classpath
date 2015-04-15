@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-validator-1.4.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/commons-validator-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/javax.mail.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/jdbc-api-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="F:/CMPE 203/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
